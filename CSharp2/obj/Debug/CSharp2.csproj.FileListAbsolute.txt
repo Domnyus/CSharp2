@@ -1,0 +1,8 @@
+C:\Portfolio\CSharp2\bin\Debug\CSharp2.exe.config
+C:\Portfolio\CSharp2\bin\Debug\CSharp2.exe
+C:\Portfolio\CSharp2\bin\Debug\CSharp2.pdb
+C:\Portfolio\CSharp2\obj\Debug\CSharp2.csproj.AssemblyReference.cache
+C:\Portfolio\CSharp2\obj\Debug\CSharp2.csproj.SuggestedBindingRedirects.cache
+C:\Portfolio\CSharp2\obj\Debug\CSharp2.csproj.CoreCompileInputs.cache
+C:\Portfolio\CSharp2\obj\Debug\CSharp2.exe
+C:\Portfolio\CSharp2\obj\Debug\CSharp2.pdb
