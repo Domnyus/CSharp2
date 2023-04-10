@@ -1,10 +1,10 @@
 # CSharp2 Português/English/(Google Translated)日本語
 
-Projeto nível 'F', aplicação .NET Console em C# para cadastros de pessoa para fazer depósitos. Esta aplicação engloba:
+Projeto nível 'E', aplicação .NET Console em C# para cadastros de pessoa para fazer depósitos. Esta aplicação engloba:
 Pegar número aleatório
 Mudar idioma
 
-Por ser um projeto nível 'F', não foi usado:
+Por ser um projeto nível 'E', não foi usado:
 - Try-catches
 - Arquivos/Bancos de dados
 - Classes
@@ -25,11 +25,11 @@ Random
 
 --------------------------------------------------------------------
 
-Level 'F' project, .NET Console application in C# for person registrations to make deposits. This application encompasses:
+Level 'E' project, .NET Console application in C# for person registrations to make deposits. This application encompasses:
 get random number
 Change language
 
-Being an 'F' level project, it was not used:
+Being an 'E' level project, it was not used:
 - Try-catches
 - Files/Databases
 - Classes
@@ -50,11 +50,11 @@ Random
 
 --------------------------------------------------------------------
 
-レベル 'F' プロジェクト、C# の .NET コンソール アプリケーションで預金を行う個人登録用。 このアプリケーションには以下が含まれます。
+レベル 'E' プロジェクト、C# の .NET コンソール アプリケーションで預金を行う個人登録用。 このアプリケーションには以下が含まれます。
 乱数を取得する
 言語を変えてください
 
-「F」レベルのプロジェクトであるため、使用されませんでした:
+「E」レベルのプロジェクトであるため、使用されませんでした:
 - try catch
 - File/Database
 - class
